@@ -1,4 +1,4 @@
-### Hi there 👋
+### WASMixer: Binary Obfuscation for WebAssembly
 
 <!--
 **WASMixer/WASMixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
